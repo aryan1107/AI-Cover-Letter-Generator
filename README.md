@@ -1,0 +1,3 @@
+# AI-Cover-Letter-Generator
+Generate Cover leter using tuned GPT-3 model for applying quickly to vatious jobs
+App coming soon....
